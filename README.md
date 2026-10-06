@@ -48,6 +48,14 @@ Records:
 ## Architecture
 Documentation/Architecture.png
 
+## Key Insights
+
+- Identified the routes with the highest delay volume.
+- Measured airline performance using delay rates.
+- Calculated on-time performance percentages.
+- Built KPI-ready Gold tables for reporting.
+- Developed dashboard-ready data models.
+
 ## Dashboard
 Insert Tableau Dashboard Screenshot Here
 
