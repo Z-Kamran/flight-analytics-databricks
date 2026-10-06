@@ -43,7 +43,7 @@ Fields:
 - Gate
 
 Records:
-150,000+ flight records
+1000+ flight records
 
 ## Architecture
 Documentation/Architecture.png
@@ -57,7 +57,7 @@ Documentation/Architecture.png
 - Developed dashboard-ready data models.
 
 ## Dashboard
-Insert Tableau Dashboard Screenshot Here
+
 
 ## Author
 Kamran Zhwandoon
